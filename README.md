@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -48,4 +50,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
