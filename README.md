@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1872-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
