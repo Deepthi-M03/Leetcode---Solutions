@@ -16,6 +16,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
