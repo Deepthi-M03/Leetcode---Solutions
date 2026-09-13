@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0835-image-overlap](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -141,6 +142,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
