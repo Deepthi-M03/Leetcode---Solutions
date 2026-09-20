@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1927-sum-game) |
@@ -182,4 +183,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Deepthi-M03/Leetcode---Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
